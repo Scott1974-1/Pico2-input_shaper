@@ -1,6 +1,5 @@
 # Pico2-input_shaper
 Setup of a RPI Pico 2 to use as an input shaper for 3D printers
- 
 Pico 2 Image Shaper Build Notes<br>
 <br>
 Using standard cat6 cable with the Blue/Blue Stripe wires removed (not needed only require 6 wires)<br>
@@ -47,7 +46,6 @@ save file and exit<br>
 make flash FLASH_DEVICE=2e8a:000f<br>
 <br>
 Once the flash is done disconnect the Pico 2 from the RPI and reconnect (not in DFU mode).<br>
-<br>
 Run the command below to get the MCU ID info for the adxl.cfg file created in the printers mainsail interface.<br>
 <br>
 ls /dev/serial/by-id/*<br>

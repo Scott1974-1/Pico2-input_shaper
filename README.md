@@ -75,7 +75,7 @@ probe_points:<br>
 <br>
 Save the new adxl.cfg file (do not reboot klipper yet). <br>
 Open the printer.cfg file and add the command below anywhere in the file. Then save and restart klipper.<br>
-*** IF YOU DISCONNECT THE ADXL345 FROM THE PRINTER YOU MUST COMMENT OUT THE LINE BELOW IN THE PRINTER.CFG FILE WITH A #  BEFORE REMOVING THE CONNECTION  OR KLIPPER WILL CRASH *** <br>
+<b> *** IF YOU DISCONNECT THE ADXL345 FROM THE PRINTER YOU MUST COMMENT OUT THE LINE BELOW IN THE PRINTER.CFG FILE WITH A #  BEFORE REMOVING THE CONNECTION  OR KLIPPER WILL CRASH *** </b><br>
 <br>
 [include adxl.cfg]<br>
 <br>
@@ -129,5 +129,14 @@ Pico boards reference: https://www.raspberrypi.com/documentation/microcontroller
 Klipper measuring resonances docs: https://www.klipper3d.org/Measuring_Resonances.html<br>
 <br>
 See the STL files directory in this github for the files of the cases used in this project.<br>
+<br>
+<br>
+Below are a few images of the final product. very clean and sleek design. Also very durable.<br>
+This can be used on multiple printers by just creating the adxl.cfg file on all the printers and adding the line to the printer.cfg file.<br>
+<b>*** Just make sure you comment out the line in the printer.cfg file BEFORE disconnecting the USB cable or klipper will crash *** </b><br>
+<br>
+<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/IMG_0635.JPG" /> </br>
+</br>
+</br>
 
 

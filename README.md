@@ -28,7 +28,7 @@ Cable Color = Brown Stripe (Orange wire on picture below)<br>
 ADXL345  Pin = SCL<br>
 Pico Pin# = 4<br>
 ￼<br>
-<br>
+![adxl345-pico.png](https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/adxl345-pico.png? raw=true)<br>
 <br>
 To flash on Pico 2. Put the Pico 2 info DFU mode connecting it to RPI.<br>
 SSH into the RPI with Klipper installed and run commands below.<br>

@@ -1,14 +1,14 @@
 # Pico2-input_shaper
- Setup of a RPI Pico 2 to use as an input shaper for 3D printers
+Setup of a RPI Pico 2 to use as an input shaper for 3D printers
  
- Pico 2 Image Shaper Build Notes
-
-Using standard cat6 cable with the Blue/Blue Stripe wires removed (not needed only require 6 wires)
-
-Cable Color = Orange (Black wire on picture below)
-ADXL345  Pin = GRD
-Pico Pin# = 38
-
+Pico 2 Image Shaper Build Notes<br>
+<br>
+Using standard cat6 cable with the Blue/Blue Stripe wires removed (not needed only require 6 wires)<br>
+<br>
+Cable Color = Orange (Black wire on picture below)<br>
+ADXL345  Pin = GRD<br>
+Pico Pin# = 38<br>
+<br>
 Cable Color = Orange Stripe (Red wire on picture below)
 ADXL345  Pin = VCC
 Pico Pin# = 36
@@ -29,6 +29,7 @@ Cable Color = Brown Stripe (Orange wire on picture below)
 ADXL345  Pin = SCL
 Pico Pin# = 4
 ￼
+
 
 To flash on Pico 2. Put the Pico 2 info DFU mode connecting it to RPI.
 SSH into the RPI with Klipper installed and run commands below.

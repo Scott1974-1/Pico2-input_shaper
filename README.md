@@ -112,7 +112,9 @@ This will create two PNG image charts (one for X axis and one for Y axis) with t
 <br>
 /tmp/shaper_calibrate_x.png<br>
 /tmp/shaper_calibrate_y.png<br>
-<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/calibrate-y.png" \>
+<br>
+EXAMPLE:<br>
+<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/calibrate-y.png" />
 <br>
 Use the information in the charts to set the input_shaper settings in the printer.cfg file.<br>
 <br>

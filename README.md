@@ -73,7 +73,7 @@ probe_points:<br>
 <br>
 Save the new adxl.cfg file (do not reboot klipper yet). <br>
 Open the printer.cfg file and add the command below anywhere in the file. Then save and restart klipper.<br>
-*** IF YOU DISCONNECT THE ADXL345 FROM THE PRINTER YOU MUST COMMENT OUT THE LINE BELOW IN THE PRINTER.CFG FILE WITH A #  BEFORE REMOVING THE CONNECTION  OR KLIPPER WILL CRASH ***<br>
+*** IF YOU DISCONNECT THE ADXL345 FROM THE PRINTER YOU MUST COMMENT OUT THE LINE BELOW IN THE PRINTER.CFG FILE WITH A #  BEFORE REMOVING THE CONNECTION  OR KLIPPER WILL CRASH *** <br>
 <br>
 [include adxl.cfg]<br>
 <br>

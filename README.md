@@ -28,9 +28,7 @@ Cable Color = Brown Stripe (Orange wire on picture below)<br>
 ADXL345  Pin = SCL<br>
 Pico Pin# = 4<br>
 <br>
-<div align="center">
   <img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/adxl345-pico.jpg" />
-</div>
 <br>
 To flash on Pico 2. Put the Pico 2 info DFU mode connecting it to RPI.<br>
 SSH into the RPI with Klipper installed and run commands below.<br>
@@ -39,6 +37,8 @@ NOTE: The pico 2 will not work with dropping the UF2 file info the drive like no
 cd ~/klipper<br>
 make clean<br>
 make menuconfig<br>
+<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/klipper_pico_menuconfig.png" />
+<br>
 	- Do not enable extra low level options<br>
 	- Raspberry Pi 2040/2350<br>
 	- rp2350 processor model<br>

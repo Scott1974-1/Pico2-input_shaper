@@ -1,4 +1,5 @@
 # Pico2-input_shaper
+<div align="center">
 Setup of a RPI Pico 2 to use as an input shaper for 3D printers<br>
 Pico 2 Image Shaper Build Notes<br>
 <br>
@@ -28,6 +29,7 @@ Cable Color = Brown Stripe (Orange wire on picture below)<br>
 ADXL345  Pin = SCL<br>
 Pico Pin# = 4<br>
 <br>
+  <img align="center" src=".github/images/logo/adxl345-pico.jpg" />
 https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/adxl345-pico.jpg<br>
 <br>
 To flash on Pico 2. Put the Pico 2 info DFU mode connecting it to RPI.<br>
@@ -122,4 +124,4 @@ shaper_type_y: <br>
 <br>
 Pico boards reference = https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html<br>
 Klipper Measuring Resonances Docs = https://www.klipper3d.org/Measuring_Resonances.html<br>
-
+</div>

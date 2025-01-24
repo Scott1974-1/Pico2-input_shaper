@@ -1,6 +1,6 @@
 # Pico2-input_shaper
 Setup of a RPI Pico 2 to use as an input shaper for 3D printers<br>
-Pico 2 Image Shaper Build Notes<br>
+Pico 2 Image Shaper Build Notes. This project is for the Pico 2 only. This Git was created because there is no good documentation in one place to get this build done for the Pico 2. Some of the commands are slightly different than doing it with a regular Pico. Hope it helps.<br>
 <br>
 Using standard cat6 cable with the Blue/Blue Stripe wires removed (not needed only require 6 wires)<br>
 <br>

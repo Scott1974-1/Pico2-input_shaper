@@ -37,7 +37,7 @@ NOTE: The pico 2 will not work with dropping the UF2 file info the drive like no
 cd ~/klipper<br>
 make clean<br>
 make menuconfig<br>
-<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/klipper_pico_menuconfig.png" />
+<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/klipper_pico_menuconfig.png" /> <br>
 <br>
 	- Do not enable extra low level options<br>
 	- Raspberry Pi 2040/2350<br>
@@ -135,8 +135,8 @@ Below are a few images of the final product. very clean and sleek design. Also v
 This can be used on multiple printers by just creating the adxl.cfg file on all the printers and adding the line to the printer.cfg file.<br>
 <b>*** Just make sure you comment out the line in the printer.cfg file BEFORE disconnecting the USB cable or klipper will crash *** </b><br>
 <br>
-<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/IMG_0635.JPG" /> </br>
-</br>
+<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/IMG_0635.JPG" /> <br>
+<br>
 </br>
 <img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/IMG_0636.JPG" /><br>
 <br>

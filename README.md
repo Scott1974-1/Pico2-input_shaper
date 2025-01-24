@@ -122,6 +122,6 @@ shaper_freq_y: <br>
 shaper_type_y: <br>
 <br>
 <br>
-Pico boards reference = https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html<br>
-Klipper Measuring Resonances Docs = https://www.klipper3d.org/Measuring_Resonances.html<br>
+Pico boards reference: https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html<br>
+Klipper measuring resonances docs: https://www.klipper3d.org/Measuring_Resonances.html<br>
 

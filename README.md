@@ -138,5 +138,7 @@ This can be used on multiple printers by just creating the adxl.cfg file on all 
 <img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/IMG_0635.JPG" /> </br>
 </br>
 </br>
+<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/IMG_0636.JPG" /><br>
+<br>
 
 

@@ -37,6 +37,7 @@ NOTE: The pico 2 will not work with dropping the UF2 file info the drive like no
 cd ~/klipper<br>
 make clean<br>
 make menuconfig<br>
+<br>
 <img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/klipper_pico_menuconfig.png" /> <br>
 <br>
 	- Do not enable extra low level options<br>

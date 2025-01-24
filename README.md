@@ -27,8 +27,10 @@ Pico Pin# = 5<br>
 Cable Color = Brown Stripe (Orange wire on picture below)<br>
 ADXL345  Pin = SCL<br>
 Pico Pin# = 4<br>
-￼<br>
-![adxl345-pico.png](https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/adxl345-pico.png? raw=true)<br>
+<br>
+<div align="center">
+  <img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/adxl345-pico.jpg" />
+</div>
 <br>
 To flash on Pico 2. Put the Pico 2 info DFU mode connecting it to RPI.<br>
 SSH into the RPI with Klipper installed and run commands below.<br>
@@ -120,6 +122,6 @@ shaper_freq_y: <br>
 shaper_type_y: <br>
 <br>
 <br>
-Pico boards reference = https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html<br>
-Klipper Measuring Resonances Docs = https://www.klipper3d.org/Measuring_Resonances.html<br>
+Pico boards reference: https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html<br>
+Klipper measuring resonances docs: https://www.klipper3d.org/Measuring_Resonances.html<br>
 

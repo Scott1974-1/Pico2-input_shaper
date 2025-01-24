@@ -114,7 +114,7 @@ This will create two PNG image charts (one for X axis and one for Y axis) with t
 /tmp/shaper_calibrate_y.png<br>
 <br>
 EXAMPLE:<br>
-<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/calibrate-y.png" />
+<img align="center" src="https://github.com/Scott1974-1/Pico2-input_shaper/blob/main/images/calibrate-y.png" /> <br>
 <br>
 Use the information in the charts to set the input_shaper settings in the printer.cfg file.<br>
 <br>
@@ -127,4 +127,7 @@ shaper_type_y: <br>
 <br>
 Pico boards reference: https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html<br>
 Klipper measuring resonances docs: https://www.klipper3d.org/Measuring_Resonances.html<br>
+<br>
+See the STL files directory in this github for the files of the cases used in this project.<br>
+
 
